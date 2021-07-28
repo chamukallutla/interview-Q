@@ -1,0 +1,55 @@
+what is project about like which application on hosting on aws how the application are design
+why you launching ec2 ?
+what applicati on hosted on ec2 if u r using that ?
+are deploying on ec2 and ru just managing the server ?
+and if u rmanaging ec2 servers how many server ?
+what are the typs of ec2 servers if have use ? 
+what are the ec2 using diffrent evironments and what type of ec2 are u using ?
+t2-large how many cpu ?
+when do you create environment ?
+how instance are using in each environment ?
+what is u r applicati on hosting on u r evironments ?
+what are the diffrents b/w spot instance and reserved instance in aws ?
+wich type of instance u r using like spot , reserved  and some more in production evironments ?
+what is plane for those ?
+ what is diiff b/w iam roles and iam grou ?
+what is diff b/w nat-gw and nat-instance ?
+so i wnt pass the parameterized how i will do that ?
+what ci cd ?
+i want integrate maven build with java lang and what configaration i need to do in jenkins ?
+even as my build number ?
+any scripting like linux and shell script ?
+what is diff b/w kill -9 and kill -3 ?
+what dose kill -9 ?
+i wnat taken that thread domp or hit how i was running perticular server  ?
+how i can identified thred on perticular server ? and i can tacke that ?
+what is diff b/w git fech and git pull ?
+i want to rewart one commit from my git repositary to u know how its ?
+what dose git commit ?
+what is ingress in k8s ?
+ what is replication controller ?
+what is replica set ?
+what does ETCD in kubernets ?
+i want tacke backup etcd data how its ?
+docker ps what dose this commands ?
+what is uses of docker save and docker loads ?
+when u do docker run inside what will be happens that commands ?
+what is copy and write on docker ?
+i want to deany some rules in sg and all so not allow i want to deny rules 
+ i want to rescrect to enduser 80 443 what i can do in sg ?
+what is region , az and edge location ?
+what is use of nacl networck ?
+if u have sg in sg what is use of nacl ?
+why we need sg ?
+what is elasticip ?
+what is limit of limits eip in aws ?
+how do u manage the ips in u r environments like all servser ips how do u maintain ?
+what are types of loadbalancer ?
+ect/passwrd ? 
+what is the back end in terraform ?
+what is worck space in terraform ?
+what is the diff b/w plan apply ?
+what is ARM templates ?
+what is the architecture and over view of applicati servers , hosted of applications ?
+what is scope of bussiness ?
+what is cost assosiated the those applicatins ?
