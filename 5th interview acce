@@ -7,6 +7,7 @@ what are the typs of ec2 servers if have use ?
 what are the ec2 using diffrent evironments and what type of ec2 are u using ?
 t2-large how many cpu ?
 when do you create environment ?
+how many servers are using in u r organization ?
 how instance are using in each environment ?
 what is u r applicati on hosting on u r evironments ?
 what are the diffrents b/w spot instance and reserved instance in aws ?
@@ -51,5 +52,5 @@ what is worck space in terraform ?
 what is the diff b/w plan apply ?
 what is ARM templates ?
 what is the architecture and over view of applicati servers , hosted of applications ?
-what is scope of bussiness ?
+what is scope of bussiness ? 
 what is cost assosiated the those applicatins ?
