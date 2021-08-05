@@ -1,0 +1,65 @@
+what are the jenkins configaration ?
+  general
+  scm
+  build environment 
+  build
+  post-build 
+
+what is upstream and downstream in jenkins ?
+  if thaire is dependince b/w 2 jobs 1st job is triggering the  2nd job 
+  so for 1st job downstream is 2nd job
+  and 2nd job upstream is the 1st job
+  and all so 1st job is triggering manually and second job is triggering automatic   
+
+whow many ways trigger the job ?
+  manually
+  trigger(upstream and downstream)
+  schedule(specitic time)---crantab
+  webhook
+
+what dose git clone internally ?
+  git ls-remote -h -----command is running
+
+what are the mvn life cycles ?
+  mvn scans inputs,checks profils what are the goles  resources ,dependince and dowloadings 
+
+how start my jenkins with out down time ?
+  saferestart install pulgin in jenkins 
+
+what is webhook ?
+  webhook is not only github and jenkins 
+  its a event means somthing will happens trigger something
+  github will inform to jenkins 
+
+what is event ?
+  event is triggerbased mechanisum
+what is poolacm ?
+  jenkins will ask to github
+
+how to tacke jenkins backup ?
+  snapshat
+  ami 
+  make a zip pack and remove the workspace
+  plugins-install thinbackup in jenkins 
+
+what are types of jobs ?
+  free style                  
+  pipleline -- blueocean-- declarative and scripted --- stges
+
+what are the plugins ?
+  maven
+  git
+  git hub
+  blueocean 
+  pipleline
+  thinbackup 
+  saferestart 
+  jacaco
+  
+
+how to protect u r jenkins ? why ?
+  speific user to the specific job 
+  for that u go to the security global toll  u have enable project based matrix 
+  then onboard the user and then onboardto then job
+  and check the what kind of permissions
+

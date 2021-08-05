@@ -1,0 +1,67 @@
+1.what are the primare skills and what are the hadson with what are technologies r u using ?
+2.what information u have about this company and what is the role what u apply for the role 
+  basically my team is resposibilyty for end to end life cycle management of application infrascture
+using terraform we are moving on two this infrasctureand provisioning on configaration and monitoring and trubleshooting
+of  application as well and application deployements 
+  and all so its not pure devops role it has got litilbit product all so  we are part of the product ot product organizastion
+curntly we have custmors in aws cloud and then we are getting custmors in azure cloud
+3.tell me more about terraform ?
+4.in the automation side u write any scripts ?
+5.any other scripting you know ?
+6.why we write shellscript and what is doing once u write the code ?
+7.what is the purpose the shellscript ?
+8.what dose shellscript do ?
+9.how do u do this kubernets
+10.i need to create virtual mechins tomcat and java install and i want using throu k8s flatform ?
+11.In k8s what are the softwares installing ?
+12.what kind application running on kubernets containers ?
+ is it web-servers or client-server ?
+13.in the machiens installing  tomcat what type applications are ruuning ?
+14.how access the apllicatins ?
+15.wich services are managing the pods in aws ?
+16.are loging aws console ?
+17.what type of user do you login and what type of access u have ?
+  is it like addmin access or any other
+18.s3 region or global and why ?
+19.how it is maintain s3 global access how dose ?
+20.you have access two a/c A and B now in this a/c two appl are ruunin g app1 and app2
+    app1 needs sends data app2 how it throu s3 waht u dose ?
+21.both places u r in addmin what u do ?
+22. how to u give access to the other a/c app2 ?
+23.what kind permissions and where u can pass ?
+    can we do throu IAM also when creating s3 life cycle at that time we enable 
+policy add TRUST RELATIONSHIP for other accounts 
+24.what is the disaster recocer ?
+25.what is the plane to recover from that and ho wto application?
+26.its mnanual proses and automation process ?
+27.with in the aws how can u do ?
+28.what about clodwatch ?
+29.how we can tacke triggering event in clodwatch  ?
+    we need to do write script jenkins in side the labda functions and then trigger the 
+labda throu events which as the crone it should do the job for you
+30.in tipical day what u do in diffrent types of jobs end to end ?
+31.who are the teams interact with you ?
+32.whos give approval for that deployement ?
+33.tell me deploye steps ?
+34.are using any aws services deploye purpose ?
+35.do you create vpc ?
+36. how to map ip range ?
+37.what is diff bt/ elb and alb ?
+38.what is use case of alb and nlb ?
+39.why nlb faster ?
+40.wher nlb sending traffic ?
+50.give me one example of trubleshooting on aws ?
+51.what logs checking ?
+52.os logs or system logs ?
+53.in u r application who tacking high avilability ?
+54.what are the custom tools developed in bash ?
+
+
+
+
+
+
+
+
+
+

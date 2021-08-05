@@ -1,7 +1,14 @@
-1.one developer writting a new code ?they wont a output as a devops guy what can do you?
-2.to build a job after ?what are the actions are running?
-3.how many repos are using?
-4.how to create a repo?
-5.to build a packer? tester how to test the package?
-6.to test the package ?via automation or manually?
-7.testing use automation purpose?which testing tools are using in your organization
+1.which tools are using in automation?
+2.what about teraform?
+3.aws services?
+4.where you are using teraform?
+5.what are you doing to create a vpc using teraform?
+6.what is cicd?
+7.how communication between git hub and jenkins?
+8.what configuration are  using the webhook to connect jenkins? 
+9.can you explain ci?
+10.what is maven?what are the things are availabe in maven?
+11.what is life cycle of maven?
+12.what is cd?where you deploye?
+13.stages of cd?
+14.what is s3?
